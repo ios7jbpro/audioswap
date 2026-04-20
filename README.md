@@ -4,6 +4,10 @@ AudioSwap is a small Windows tray utility for quickly switching between two save
 
 It is built as a WinUI 3 desktop app with a lightweight settings window and a tray-first workflow, so you can swap outputs faster than going through Windows quick settings each time.
 
+## Screenshot
+
+![AudioSwap app screenshot](docs/images/screenshot.png)
+
 ## Features
 
 - Tray icon with quick toggle, settings, and exit actions
